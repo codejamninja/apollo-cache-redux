@@ -1,12 +1,12 @@
 {
   "name": "@codejamninja/apollo-cache-redux",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "Redux cache for Apollo Client 2.x",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rportugal/apollo-cache-redux.git"
+    "url": "git+https://github.com/codejamninja/apollo-cache-redux.git"
   },
   "author": "Ricardo Portugal <ricardofmportugal@gmail.com>",
   "contributors": [
@@ -14,9 +14,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rportugal/apollo-cache-redux/issues"
+    "url": "https://github.com/codejamninja/apollo-cache-redux/issues"
   },
-  "homepage": "https://github.com/rportugal/apollo-cache-redux#readme",
+  "homepage": "https://github.com/codejamninja/apollo-cache-redux#readme",
   "scripts": {
     "coverage": "jest --coverage",
     "test": "jest",
