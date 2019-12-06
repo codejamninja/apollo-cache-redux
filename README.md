@@ -6,7 +6,7 @@ Works with Redux 3.x and 4.x .
 
 # Installation
 ```javascript
-npm install apollo-cache-redux --save
+npm install @codejamninja/apollo-cache-redux --save
 ```
 
 After installing the package:
