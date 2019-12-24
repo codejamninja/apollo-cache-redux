@@ -2,6 +2,10 @@
 It heavily reuses cache normalization code from `apollo-cache-inmemory`.
 Works with Redux 3.x and 4.x .
 
+**WARNING: there are bugs in this**
+
+Please file any issues you are expiriencing [HERE](https://github.com/codejamninja/apollo-cache-redux/issues)
+
 # Installation
 ```javascript
 npm install @codejamninja/apollo-cache-redux --save
